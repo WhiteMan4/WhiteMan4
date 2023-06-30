@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WhiteMan
+- 👀 I’m interested in makeing games and participating projects
+- 🌱 I’m currently learning Gml code on Gamemaker
+- 💞️ I’m looking to collaborate on GAMES AND ONLY THAT
+- 📫 How to reach me you cant lol
