@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @WhiteMan
-- 👀 I’m interested in makeing games and participating projects
-- 🌱 I’m currently learning Gml code on Gamemaker
-- 💞️ I’m looking to collaborate on GAMES AND ONLY THAT
-- 📫 How to reach me you cant lol
+- Sup,bro
+- sooo... yes. im currenty making some projects
+- i program mostly on gml but i do sometimes use C# (barely)
+- i know both languages are far away from each other but i like it that way
+- feel free to bully me, i know u will
+- [insert text]
+
